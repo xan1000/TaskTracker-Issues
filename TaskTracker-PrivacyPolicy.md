@@ -16,7 +16,7 @@ To delete all the data remove the TaskTracker app from the device.
 
 ## Email
 
-If you email the developer for support or other feedback, the emails with email addresses will be retained for quality assurance purposes. The email addresses will be used only to reply to the concerns or suggestions raised and will never be used for any other purposes.
+If you email the developer for support or other feedback, the emails will be retained for quality assurance purposes. The email addresses will be used only to reply to the concerns or suggestions raised and will never be used for any other purposes.
 
 ## Disclosure of Personal Information
 
